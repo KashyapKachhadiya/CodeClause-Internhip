@@ -1,0 +1,95 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "sku": 18644119330491312,
+      "title": "Solids: Berry (Utility)",
+      "description": "Sphynx Tie Dye Grey",
+      "availableSizes": ["X", "L", "XL", "XXL"],
+      "price": 1999,
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 2,
+      "sku": 11854078013954528,
+      "title": "Rick & Morty: Painful Existence",
+      "description": "Danger Knife Grey",
+      "availableSizes": ["X", "M", "L"],
+      "price": 899,
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 3,
+      "sku": 876661122392077,
+      "title": "Seinfeld: Festivus For All Of Us",
+      "description": "Seinfeld: Festivus For All Of Us",
+      "availableSizes": ["X", "M", "L"],
+      "price": 349,
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 4,
+      "sku": 9197907543445677,
+      "title": "House Of The Dragon: Logo",
+      "description": "Born On The Streets",
+      "availableSizes": ["XL"],
+      "price": 699,
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 5,
+      "sku": 10547961582846888,
+      "title": "Johnny Bravo: King Of Waves",
+      "description": "Tso 3D Short Sleeve",
+      "availableSizes": ["X", "L", "XL"],
+      "price": 499,
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 6,
+      "sku": 6090484789343891,
+      "title": "Tom And Jerry: Thinking Tom",
+      "description": "Man Tie Dye Cinza Grey",
+      "availableSizes": ["XL", "XXL"],
+      "price": 599,
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 7,
+      "sku": 18532669286405342,
+      "title": "That's What She Said",
+      "description": "1977 Infantil",
+      "availableSizes": ["S"],
+      "style": "Preto com listras brancas",
+      "price": 799,
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 8,
+      "sku": 5619496040738316,
+      "title": "One Piece: Straw Hat Pirates",
+      "description": "",
+      "availableSizes": ["XL"],
+      "style": "Azul escuro",
+      "price": 799,
+      "isFreeShipping": false
+    },
+    {
+      "id": 9,
+      "sku": 11600983276356165,
+      "title": "TSS Originals: Radiant",
+      "description": "",
+      "availableSizes": ["L", "XL"],
+      "price": 1199,
+      "isFreeShipping": true
+    }
+    
+  ]
+}
